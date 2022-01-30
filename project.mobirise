@@ -1214,7 +1214,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>TAKE CONTROL&nbsp;OF YOUR\nBUSINESS</b><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://pcopartners.as.me/Free-Consultation\" data-toolbar=\"-mbrBtnMove\">BOOK STRATEGY</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn display-7 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> <a data-app-btn=\"true\" class=\"btn display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"https://squareup.com/appointments/book/20gxv3ff4typxn/LGG1KSDJS7YA7/start\" data-toolbar=\"-mbrBtnMove\">BOOK STRATEGY</a>"
               }
             ]
           }
