@@ -6100,9 +6100,12 @@ section.lazy-placeholder:after {
 }
 .cid-tg3J67fw7J .card-title {
   color: #36404c;
-  text-align: left;
+  text-align: center;
 }
 .cid-tg3J67fw7J .title {
+  text-align: center;
+}
+.cid-tg3J67fw7J .card-title DIV {
   text-align: center;
 }
 .cid-tg3FpLuxR3 {
