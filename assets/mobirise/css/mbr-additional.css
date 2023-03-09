@@ -1756,7 +1756,7 @@ section.lazy-placeholder:after {
 .cid-rOeUHIJaNY {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f5f5f7;
+  background-color: #ffffff;
 }
 .cid-rOeUHIJaNY img {
   width: 100%;
@@ -1792,7 +1792,7 @@ section.lazy-placeholder:after {
 .cid-rOeUHIJaNY .mbr-section-btn {
   position: absolute;
   bottom: 0;
-  left: 0;
+  right: 0;
 }
 .cid-rOeUHIJaNY .mbr-section-btn .btn {
   margin: 0rem!important;
