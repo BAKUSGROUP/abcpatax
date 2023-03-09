@@ -68,7 +68,7 @@
       "themeColor": "#fd5e30"
     },
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "chatbutton": {},
     "mbrsiteDomain": "gdryx5exkj"
   },
