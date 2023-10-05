@@ -74,7 +74,7 @@
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "Hi!👋\n\nThank you for contacting us about your accounting, tax affairs.\nHow can we help you today?",
+      "popupMessage": "Hi!👋\n\nThank you for contacting AB CPA TAX & ADVISORY, PLLC about your accounting and tax affairs.\nHow can we help you today?",
       "showPopup": true,
       "showOnIE": true,
       "autoOpenTimeout": "5",
